@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Thanmai56/s201-insem1-2300030103_Thanmai.git",
+  "homepage": "https://Thanmai56.github.io/s201-insem1-2300030103_Thanmai",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
